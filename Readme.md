@@ -1,14 +1,7 @@
 # Inicio dos Laboratórios de ML e AI
 
-### Necessario instalar:
-* pandas
-* numpy
-* Matplotlib
+### Verificar o caminho dos dados
 
-
-### Necessario adicionar ao git ignore:
-* vscode
-* linux
-* venv
-* python
-* csv
+* Dados gerados pelo gerador
+* Dados já obtidos
+* Rever os códigos e atualizar os caminhos

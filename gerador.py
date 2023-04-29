@@ -1,3 +1,8 @@
+""" 
+Reformular esse arquivo para gerar todos os arquivos dentro do diretório de Dados.
+Criar parametros para selecionar o tipo de arquivo gerado, afim de, testar arquivos que sejam bons e ruins de tratar
+"""
+
 import pandas as pd
 import random as rd
 import os
@@ -19,4 +24,4 @@ def gerador(nome, diretorio):
 
 
 #gerador('reglin.csv', '/home/nikola/MeuLab/RegressaoLinear/')
-gerador('reglog1.csv', '/home/nikola/MeuLab/RegressaoLogistica/')
+#gerador('reglog1.csv', '/home/nikola/MeuLab/RegressaoLogistica/')
