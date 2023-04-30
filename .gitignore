@@ -1,10 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,venv,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python,venv,linux
 
-### Arquivos CSV ###
-
-.csv
-
 ### Linux ###
 *~
 

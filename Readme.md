@@ -18,3 +18,5 @@ Contém arquivos que exploram técnicas de classificação como:
 *estudos em desenvolvimento*
 ## [Teoria dos Grafos](./TeoriaGrafos/)
 *estudos em desenvolvimento*
+## [Pandas](./Pandas/)
+Arquivos de um minicurso feito para obter mais entendimento sobre a biblioteca Pandas.
