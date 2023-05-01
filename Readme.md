@@ -13,6 +13,10 @@ Contém arquivos que exporam as séries temporais, decomposição e previsão co
 Contém arquivos que exploram técnicas de classificação como:
 * Naive Bayes
 * Decision Tree
+* Random Forest
+* Seleção de Atributos
+* Aprendizado baseado em Instância
+
 * *Os demais arquivos ainda estão sendo estudados*
 ## [Redes Neurais](./RedesNeurais/)
 *estudos em desenvolvimento*
