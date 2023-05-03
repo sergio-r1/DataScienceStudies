@@ -1,6 +1,6 @@
 # Estudos iniciais de Data Science
 
-#### Os arquivos estão separados por diretórios:
+### Os arquivos estão separados por diretórios:
 
 
 ## [Regressão Linear](./RegressaoLinear/)
@@ -15,12 +15,15 @@ Contém arquivos que exploram técnicas de classificação como:
 * Decision Tree
 * Random Forest
 * Seleção de Atributos
+* K-means
 * Aprendizado baseado em Instância
 
-* *Os demais arquivos ainda estão sendo estudados*
+*Estudos em desenvolvimento*
 ## [Redes Neurais](./RedesNeurais/)
-*estudos em desenvolvimento*
+* Redes Neurais Keras
+
+*Estudos em desenvolvimento*
 ## [Teoria dos Grafos](./TeoriaGrafos/)
-*estudos em desenvolvimento*
+*Estudos em desenvolvimento*
 ## [Pandas](./Pandas/)
 Arquivos de um minicurso feito para obter mais entendimento sobre a biblioteca Pandas.
