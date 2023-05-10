@@ -4,10 +4,12 @@ Nesse repositório estão todos os arquivos desenvolvidos nos cursos feitos em a
 
 Adicionarei mais arquivos dentro desse repositório conforme o andamento do meu aprendizado. Os arquivos de treinamento estarão em um repositório privado.
 
-<br>Os arquivos estão separados por diretórios:
+*Estudos nessa área estão em desenvolvimento*
+
+Os arquivos estão separados por diretórios:
 
 ## [Limpeza e Tratamento de Dados](./LimpezaDeDados/)
-
+Contém arquivos relacionados a limpeza de dados, utilizando técnicas para tratar os arquivos antes de analisar os dados e otimizar o treinamento, previsão e visualização.
 
 ## [Regressão Linear](./RegressaoLinear/)
 Contém arquivos que exploram regressão linear simples e multipla.
@@ -24,17 +26,16 @@ Contém arquivos que exploram técnicas de classificação como:
 * K-means
 * Aprendizado baseado em Instância
 
-*Estudos em desenvolvimento*
 ## [Redes Neurais](./RedesNeurais/)
 * Redes Neurais Keras
 * Deep Learning I
 * Deep Learning II
 
 ## [Teoria dos Grafos](./TeoriaGrafos/)
-*Estudos em desenvolvimento*
+
 ## [Pandas](./Pandas/)
 Arquivos de um minicurso feito para obter mais entendimento sobre a biblioteca Pandas.
-O curso compreende os seguintes tópicos:<br>
+O curso compreende os seguintes tópicos, separados por módulos:<br>
 1 - Conhecendo Jupyter<br>
 2 - Importando dados<br>
 3 - Limpando observações<br>
@@ -45,6 +46,18 @@ O curso compreende os seguintes tópicos:<br>
 8 - Estatísticas descritivas<br>
 9 - Removendo Outliers<br>
 
-*Estudos em desenvolvimento*
-
 ## *Bibliotecas ultilizadas*
+
+* Pandas
+* Numpy
+* Matplotlib
+* Sklearn
+* Statistics
+* Scipy
+* Seaborn
+* Yellowbrick
+* Graphviz
+* Keras
+* Statsmodels
+* Datetime
+* Pmdarima
